@@ -1,0 +1,1 @@
+This app in Flutter allows evaluating business statistics through 3 evaluation modules, organized by dimensions, principles, and behaviors. It uses Supabase for authentication and data storage, and features an interactive dashboard to visualize results. Designed for administrators and evaluators, it facilitates business management and the assignment of evaluations.
